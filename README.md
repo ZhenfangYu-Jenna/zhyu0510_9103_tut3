@@ -15,6 +15,3 @@ I will use Daniel Shiffman’s Image to ASCII code as the base for my interactiv
 
 [Example Code – Perlin Noise Flow Field (p5.js)](https://editor.p5js.org/codingtrain/sketches/LNBpdYQHP)
 ![Screenshot of ASCii](image/ASCII.png)
-
-
-## References
